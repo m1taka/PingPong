@@ -1,0 +1,9 @@
+D:\VSProjects\Pong\Pong\bin\Debug\Pong.exe.config
+D:\VSProjects\Pong\Pong\bin\Debug\Pong.exe
+D:\VSProjects\Pong\Pong\bin\Debug\Pong.pdb
+D:\VSProjects\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\VSProjects\Pong\Pong\obj\Debug\Pong.Form1.resources
+D:\VSProjects\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\VSProjects\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\VSProjects\Pong\Pong\obj\Debug\Pong.exe
+D:\VSProjects\Pong\Pong\obj\Debug\Pong.pdb
