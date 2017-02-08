@@ -1,0 +1,8 @@
+D:\GitHub\PingPong\bin\Release\Pong.exe.config
+D:\GitHub\PingPong\bin\Release\Pong.exe
+D:\GitHub\PingPong\bin\Release\Pong.pdb
+D:\GitHub\PingPong\obj\Release\PingPong.Form1.resources
+D:\GitHub\PingPong\obj\Release\Pong.Properties.Resources.resources
+D:\GitHub\PingPong\obj\Release\PingPong.csproj.GenerateResource.Cache
+D:\GitHub\PingPong\obj\Release\Pong.exe
+D:\GitHub\PingPong\obj\Release\Pong.pdb

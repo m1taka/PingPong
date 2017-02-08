@@ -15,3 +15,12 @@ D:\VSProjects\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
 D:\VSProjects\PingPong\PingPong\obj\Debug\Pong.Properties.Resources.resources
 D:\VSProjects\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
 D:\VSProjects\PingPong\PingPong\obj\Debug\Pong.exe
+D:\GitHub\PingPong\bin\Debug\Pong.exe.config
+D:\GitHub\PingPong\obj\Debug\Pong.exe
+D:\GitHub\PingPong\obj\Debug\Pong.pdb
+D:\GitHub\PingPong\bin\Debug\Pong.exe
+D:\GitHub\PingPong\bin\Debug\Pong.pdb
+D:\GitHub\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+D:\GitHub\PingPong\obj\Debug\PingPong.Form1.resources
+D:\GitHub\PingPong\obj\Debug\Pong.Properties.Resources.resources
+D:\GitHub\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
